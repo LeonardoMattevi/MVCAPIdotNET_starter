@@ -1,0 +1,16 @@
+[
+  {
+    "InstanceGuid": "88888888-1811-43e3-908f-6fcf3ac3ced3",
+    "InstanceName": "Dev",
+    "InstanceCode": "Dev",
+    "InstanceUrl": "http://localhost/MVCAPIdotNET_starter",
+    "InstanceUrlAPI": "http://localhost/MVCAPIdotNET_starter/API/"
+  },
+  {
+    "InstanceGuid": "88888888-fbc1-4861-bb3d-ef85f9a1253a",
+    "InstanceName": "Organizzazione produzione",
+    "InstanceCode": "Prod",
+    "InstanceUrl": "https://test.dominio.it/",
+    "InstanceUrlAPI": "https://test.dominio.it/API/"
+  }
+]
